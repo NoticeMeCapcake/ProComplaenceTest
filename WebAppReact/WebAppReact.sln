@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppReact", "WebAppReact\WebAppReact.csproj", "{437C6851-8A2B-47A3-A7F6-D1A79D20D7E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProComplaenceFront", "ProComplaenceFront\ProComplaenceFront.csproj", "{B1636E77-14B9-4D9E-980F-F2392DCCE04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437C6851-8A2B-47A3-A7F6-D1A79D20D7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437C6851-8A2B-47A3-A7F6-D1A79D20D7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437C6851-8A2B-47A3-A7F6-D1A79D20D7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437C6851-8A2B-47A3-A7F6-D1A79D20D7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1636E77-14B9-4D9E-980F-F2392DCCE04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1636E77-14B9-4D9E-980F-F2392DCCE04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1636E77-14B9-4D9E-980F-F2392DCCE04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1636E77-14B9-4D9E-980F-F2392DCCE04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

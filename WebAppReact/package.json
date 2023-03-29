@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "amd-define-factory-patcher-loader": "^1.0.0",
+    "jquery": "^3.6.4",
+    "sizzle": "^2.3.10"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "LM2EOc8hhWiXtrmkjicH3Eg3yWroglHqscuY5tm4/Aw=",
+  "Source": "WebApp",
+  "BasePath": "_content/WebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApp\\wwwroot",
+      "Source": "WebApp",
+      "ContentRoot": "D:\\Danon\\Documents\\CSharp\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
